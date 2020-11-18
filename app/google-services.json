@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "805817180434",
+    "firebase_url": "https://casera-dbdbe.firebaseio.com",
+    "project_id": "casera-dbdbe",
+    "storage_bucket": "casera-dbdbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805817180434:android:37e3c376973897897e53cb",
+        "android_client_info": {
+          "package_name": "com.example.caseraapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805817180434-nh215br968ffvrtdgvhu6j5cebs714ti.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.caseraapp",
+            "certificate_hash": "e7607913ba2f4f896335fbc5cea58f80a313b033"
+          }
+        },
+        {
+          "client_id": "805817180434-m9p4fp7v98tkvfcdtgn6t60ut5hake9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhfkG4lvVv1YcMRpn0Ryrl0DVVOxUN1BM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805817180434-m9p4fp7v98tkvfcdtgn6t60ut5hake9i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
